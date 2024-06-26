@@ -221,6 +221,9 @@ The feedback from my lecturer regarding Part 2 of the project is as follows:
 2. Total Calories Calculation and Specific Explanation: The application calculates and displays the total calories of a recipe. It is advised to include a detailed explanation that pertains to specific calorie ranges.
 3. Calorie Alert and Relevant Information: The application alerts the user when the total calories of a recipe exceed 300. It is essential to display information relevant to the calorie count as part of this alert.
 
+**Application Structure:**
+1. 300-Calorie Notification via Delegate: The 300-calorie notification should be implemented using a delegate. It is necessary to ensure the proper utilization of a delegate for this functionality.
+
 My implementation is:
 1. Although fewer commits were required for POE Part 2, efforts were made to ensure that commit comments are descriptive and clearly outline the changes made.
 2. The unit of measurement input format has been modified to only include abbreviations such as "g", "kg", "ml", etc., with no preceding numbers. All measurements now fall under the "Measurement" category.
