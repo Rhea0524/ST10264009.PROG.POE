@@ -224,10 +224,15 @@ The feedback from my lecturer regarding Part 2 of the project is as follows:
 **Application Structure:**
 1. 300-Calorie Notification via Delegate: The 300-calorie notification should be implemented using a delegate. It is necessary to ensure the proper utilization of a delegate for this functionality.
 
-My implementation is:
-1. Although fewer commits were required for POE Part 2, efforts were made to ensure that commit comments are descriptive and clearly outline the changes made.
-2. The unit of measurement input format has been modified to only include abbreviations such as "g", "kg", "ml", etc., with no preceding numbers. All measurements now fall under the "Measurement" category.
-3. Extensive revisions have been made to the readme file, including the creation of an index page with detailed headings. These headings aim to provide users with comprehensive information about the application.
+**Implementation in Response to Feedback:**
+
+**App Functionality:**
+1. User Guidance: On the "Enter Recipe Details" page, I have added sticky notes that provide more information about the significance of the calorie and food group values. There are two sticky notes to guide the user appropriately.
+2. Calorie Range Explanation: When a recipe is displayed, the total calories are calculated. I have included a brief explanation below this total to inform the user about what the specific calorie range of the recipe indicates.
+3. Enhanced Calorie Alert: If a user inputs more than 300 calories on the "Enter Recipe Details" window, the warning now includes additional information related to the 300-calorie threshold.
+
+**Application Structure:**
+1. Delegate for Calorie Notification: I have implemented a delegate to ensure users are notified when a recipe exceeds 300 calories.
 
 
 
