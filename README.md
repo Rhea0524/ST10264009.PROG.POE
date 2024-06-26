@@ -93,11 +93,15 @@ Recipe Realm acknowledges the following contributions:
 
 - [Microsoft C# Delegates Guide](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/)
 - [Microsoft .NET List<T> Documentation](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-8.0)
-- [Microsoft C# Classes Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes)
 - [Tutorialsteacher - C# Collections](https://www.tutorialsteacher.com/csharp/csharp-collection)
 - [Understanding Food Groups](https://sweetlife.org.za/what-are-the-different-food-groups-a-simple-explanation/)
 - [Understanding Calories](https://www.medicalnewstoday.com/articles/263028#:~:text=A%20calorie%20is%20a%20unit,reducing%20the%20intake%20of%20calories.)
-- [Microsoft Visual Studio - Unit Testing Walkthrough](https://learn.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code?view=vs-2022)
+- [How should I display in a view all the ingredients in/from a recipe when I am using WPF?](https://stackoverflow.com/questions/56432683/how-should-i-display-in-a-view-all-the-ingredients-in-from-a-recipe-when-i-am-us)
+- [How do I display user input captured from a list in C#?](https://stackoverflow.com/questions/76301825/how-do-i-display-user-input-captured-from-a-list-in-c-sharp)
+- [Display related data in WPF applications](https://learn.microsoft.com/en-us/visualstudio/data-tools/display-related-data-in-wpf-applications?view=vs-2022)
+- [Persist and restore application-scope properties in WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/app-development/persist-and-restore-application-scope-properties?view=netframeworkdesktop-4.8)
+- [How to: Filter Data in a View (WPF)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/data/how-to-filter-data-in-a-view?view=netframeworkdesktop-4.8)
+- [How to clear values in a DataGrid in C# WPF?](https://www.reddit.com/r/learnprogramming/comments/5gz5ne/how_to_clear_values_in_a_datagrid_in_c_wpf/)
 
 
 ## Contact
