@@ -17,7 +17,7 @@
 
 ## Introduction
 
-Welcome to Recipe Realm, your ultimate companion for culinary exploration and recipe management! Recipe Realm is a versatile console application designed to streamline the process of organizing, scaling, and experimenting with recipes, all within a convenient command-line interface.
+Welcome to Recipe Realm, your ultimate companion for culinary exploration and recipe management! Recipe Realm is a versatile WPF application designed to streamline the process of organizing, scaling,experimenting with recipes and filtering recipes, all within a convenient command-line interface.
 
 Whether you're a seasoned chef looking to fine-tune your favorite dishes or an aspiring home cook eager to explore new culinary horizons, Recipe Realm offers a user-friendly platform to bring your culinary visions to life.
 
@@ -28,6 +28,7 @@ Discover a world of possibilities with Recipe Realm:
 - **Insightful Nutritional Information:** Stay informed about the calorie content and nutritional profile of your recipes, aiding in mindful meal planning.
 - **Customizable Configuration:** Tailor Recipe Realm to your unique preferences and workflow with customizable settings and options.
 - **Community Collaboration:** Join a vibrant community of culinary enthusiasts and share your recipes, tips, and experiences with like-minded individuals.
+- **Filter Recipes:** Filter recipes based on the occasion and what your heart is looking for, be it by a specific ingridient, maxiumim number of calories or a certain food group.
 
 Experience the joy of cooking like never before as you embark on a culinary journey filled with creativity, experimentation, and culinary delight. With Recipe Realm by your side, the possibilities are endless.
 
@@ -56,6 +57,9 @@ Learn more about calories, including their importance, ranges, and factors influ
 Calorie Exceed:
 When a user inputs a recipe that exceeds 300 calories, the user is notifed of that.
 
+Filtering:
+A user is able to filter recipes based on their perference, the user can filter by either a specific ingridient, food group or maximum calories.
+
 ## Installation
 
 To use Recipe Realm, follow these steps:
@@ -74,6 +78,7 @@ Once installed, you can use Recipe Realm for the following tasks:
 - **Display Recipe:** View the details of saved recipes, including ingredient quantities, calorie content, and cooking steps.
 - **Scale Recipe:** Adjust the serving size of recipes to accommodate different occasions or preferences.
 - **Reset Quantities:** Reset recipe quantities to their original values after scaling.
+- **Filtering Recipes:** Filter recipes based on user perference.
 
 ## Configuration
 
